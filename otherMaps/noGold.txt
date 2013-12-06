@@ -1,0 +1,23 @@
+R.......................B
+==H.====H==.=.==H====.H==
+.........................
+H========HH===HH========H
+H.......................H
+H==H========H========H==H
+H..H........H........H..H
+H.=H==H=====H=====H==H=.H
+H..H.................H..H
+.==H======.H=H.======H==.
+...H.................H...
+.H=H.H=====H=H=====H.H=H.
+...H....H.......H....H...
+==HHHH.=.=======.=.HHHH==
+...H....H.......H....H...
+HH=H=H==H===H===H==H=H=HH
+6
+2 0 RRRRRRRRRLLLLLLLLL
+4 1 RRRRRRRRRRLLLLLLLLLL
+10 13 RRRRRLLLLL
+12 2 LLRRRRRLLLLLRR
+14 24 LLLLLLLRRRRRRR
+8 4 RRRRRLLLLLRRRLLLRRLL
