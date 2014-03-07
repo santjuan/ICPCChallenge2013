@@ -1,7 +1,7 @@
 ICPCChallenge2013
 =================
 
-Implementation of the ICPC Challenge player that got 3rd place this year (http://icpc.baylor.edu/challenge/).
+Implementation of the ICPC Challenge player that got 3rd place in the 2013 competition (http://icpc.baylor.edu/challenge/).
 
 
 The most important part of the player was the game simulator, which allowed us to build a brute force defense system. What that brute force system did was basically trying all possible moves up to a certain depth to see if the player was in danger, and if it was it tried to find a saving move.
